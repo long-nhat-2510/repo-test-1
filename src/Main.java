@@ -1,3 +1,9 @@
+package src;
+
+import testfolder.Book;
+import testfolder.DVD;
+import testfolder.LibrarySection;
+
 public class Main {
     public static void main(String[] args) {
         LibrarySection<Book> bookSection = new LibrarySection<>();

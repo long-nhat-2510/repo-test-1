@@ -1,7 +1,12 @@
 package src;
 
-import org.w3c.dom.ls.LSOutput;
+import javafx.application.Application;
+import javafx.stage.Stage;
 
-public class Test {
+public class Test extends Application {
 
+    @Override
+    public void start(Stage primaryStage) throws Exception {
+
+    }
 }
