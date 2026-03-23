@@ -1,3 +1,4 @@
+package src;
 import java.util.*;
 public class LibrarySection<T extends MediaItem> {
     private List<T> mediaItems = new ArrayList<>();

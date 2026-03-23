@@ -1,3 +1,4 @@
+package src;
 public abstract class MediaItem {
     protected String id;
     protected String name;
